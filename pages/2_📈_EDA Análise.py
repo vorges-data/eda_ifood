@@ -10,7 +10,7 @@ from scipy.stats import skew
 import plotly.figure_factory as ff
 
 # Import Dataset
-df = pd.read_csv('/home/vinicius/repos/eba_estatistica/estatistica_descritiva/dataset/mkt_data.csv')
+df = pd.read_csv('dataset/mkt_data.csv')
 
 #========================================================================
 #========================== Funçoes Aux ================================
